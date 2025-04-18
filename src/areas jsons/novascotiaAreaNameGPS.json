@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Big Bald Brook to Carey Brook, Nova Scotia",
+        "lat": 45.37323,
+        "lon": -64.92933,
+        "climbs": 7
+    },
+    {
+        "name": "Wave Wall, Nova Scotia",
+        "lat": 46.47219,
+        "lon": -60.88536,
+        "climbs": 7
+    },
+    {
+        "name": "Flanking Tower, Nova Scotia",
+        "lat": 44.80631,
+        "lon": -63.16046,
+        "climbs": 7
+    },
+    {
+        "name": "Gatehouse, Nova Scotia",
+        "lat": 44.80564,
+        "lon": -63.16051,
+        "climbs": 6
+    },
+    {
+        "name": "The Keep, Nova Scotia",
+        "lat": 44.80577,
+        "lon": -63.16054,
+        "climbs": 7
+    }
+]

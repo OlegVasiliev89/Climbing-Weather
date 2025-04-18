@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Lower Tier, New Brunswick",
+        "lat": 45.47227,
+        "lon": -66.50856,
+        "climbs": 31
+    },
+    {
+        "name": "Second Tier, New Brunswick",
+        "lat": 45.83551,
+        "lon": -66.45506,
+        "climbs": 18
+    },
+    {
+        "name": "Fownes Head East Ice, New Brunswick",
+        "lat": 45.39298,
+        "lon": -65.45264,
+        "climbs": 10
+    },
+    {
+        "name": "Fownes Head West Ice, New Brunswick",
+        "lat": 45.38698,
+        "lon": -65.45479,
+        "climbs": 7
+    },
+    {
+        "name": "The Main Cliff (left), New Brunswick",
+        "lat": 45.28076,
+        "lon": -66.12549,
+        "climbs": 8
+    },
+    {
+        "name": "The Main Cliff, New Brunswick",
+        "lat": 45.4486,
+        "lon": -66.308,
+        "climbs": 9
+    },
+    {
+        "name": "The Right Side, New Brunswick",
+        "lat": 45.4486,
+        "lon": -66.308,
+        "climbs": 8
+    },
+    {
+        "name": "Monster Wall & Main Wall, New Brunswick",
+        "lat": 45.50271,
+        "lon": -65.91633,
+        "climbs": 16
+    },
+    {
+        "name": "Roadside Wall, New Brunswick",
+        "lat": 45.50271,
+        "lon": -65.91633,
+        "climbs": 29
+    },
+    {
+        "name": "Jester Wall, New Brunswick",
+        "lat": 45.5035,
+        "lon": -65.9729,
+        "climbs": 11
+    },
+    {
+        "name": "Queen Wall, New Brunswick",
+        "lat": 45.5035,
+        "lon": -65.9729,
+        "climbs": 7
+    },
+    {
+        "name": "LSR North, New Brunswick",
+        "lat": 45.50138,
+        "lon": -65.28785,
+        "climbs": 20
+    },
+    {
+        "name": "LSR South, New Brunswick",
+        "lat": 45.48931,
+        "lon": -65.29139,
+        "climbs": 12
+    },
+    {
+        "name": "Dirt Bag Corner, New Brunswick",
+        "lat": 45.18687,
+        "lon": -66.85253,
+        "climbs": 9
+    },
+    {
+        "name": "The Green Zone, New Brunswick",
+        "lat": 45.18644,
+        "lon": -66.85228,
+        "climbs": 10
+    },
+    {
+        "name": "Main Wall, New Brunswick",
+        "lat": 45.18667,
+        "lon": -66.8524,
+        "climbs": 22
+    },
+    {
+        "name": "The Matrix, New Brunswick",
+        "lat": 45.18632,
+        "lon": -66.85219,
+        "climbs": 13
+    },
+    {
+        "name": "Moe Wall, New Brunswick",
+        "lat": 45.18675,
+        "lon": -66.85247,
+        "climbs": 12
+    },
+    {
+        "name": "X Wall, New Brunswick",
+        "lat": 45.18656,
+        "lon": -66.85236,
+        "climbs": 12
+    },
+    {
+        "name": "Creek wall, New Brunswick",
+        "lat": 45.25696,
+        "lon": -66.76064,
+        "climbs": 20
+    },
+    {
+        "name": "Main Wall (Center Face), New Brunswick",
+        "lat": 45.25595,
+        "lon": -66.75893,
+        "climbs": 28
+    },
+    {
+        "name": "Secret Garden, New Brunswick",
+        "lat": 45.2572,
+        "lon": -66.75958,
+        "climbs": 9
+    },
+    {
+        "name": "The Watchtower, New Brunswick",
+        "lat": 45.25723,
+        "lon": -66.75841,
+        "climbs": 6
+    },
+    {
+        "name": "Dystopia Wall, New Brunswick",
+        "lat": 45.16738,
+        "lon": -66.85194,
+        "climbs": 10
+    },
+    {
+        "name": "Utopia Wall, New Brunswick",
+        "lat": 45.16787,
+        "lon": -66.85251,
+        "climbs": 12
+    },
+    {
+        "name": "Eye of the Needle Area, New Brunswick",
+        "lat": 45.49021,
+        "lon": -65.29621,
+        "climbs": 11
+    },
+    {
+        "name": "Geezer Area, New Brunswick",
+        "lat": 45.49424,
+        "lon": -65.29886,
+        "climbs": 9
+    },
+    {
+        "name": "Sea Monster Area, New Brunswick",
+        "lat": 45.4917,
+        "lon": -65.29909,
+        "climbs": 11
+    },
+    {
+        "name": "Cochrane Lane Cliffs, New Brunswick",
+        "lat": 45.44046,
+        "lon": -66.29927,
+        "climbs": 357
+    },
+    {
+        "name": "Eagle Rock, New Brunswick",
+        "lat": 45.43084,
+        "lon": -66.31572,
+        "climbs": 53
+    },
+    {
+        "name": "Mount Douglas-East Face, New Brunswick",
+        "lat": 45.4703,
+        "lon": -66.3471,
+        "climbs": 23
+    },
+    {
+        "name": "Sunnyside, New Brunswick",
+        "lat": 45.4936,
+        "lon": -66.3285,
+        "climbs": 49
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Algoma Riverside Cliffs, ON",
+        "lat": 46.46054,
+        "lon": -83.24397,
+        "climbs": 26,
+        "country": "Canada",
+        "distance": 610.25
+    },
+    {
+        "name": "Kenora, ON",
+        "lat": 49.767,
+        "lon": -94.4894,
+        "climbs": 31,
+        "country": "Canada",
+        "distance": 1908.9
+    },
+    {
+        "name": "The Nooks Boulders, ON",
+        "lat": 46.61064,
+        "lon": -82.89799,
+        "climbs": 136,
+        "country": "Canada",
+        "distance": 599.67
+    },
+    {
+        "name": "Sudbury Area, ON",
+        "lat": 46.49338,
+        "lon": -80.99048,
+        "climbs": 66,
+        "country": "Canada",
+        "distance": 400.68
+    },
+    {
+        "name": "Thunder Bay Region Rock, ON",
+        "lat": 48.411,
+        "lon": -89.2529,
+        "climbs": 368,
+        "country": "Canada",
+        "distance": 1394.5
+    },
+    {
+        "name": "Adam and Eve Rocks, ON",
+        "lat": 44.55305,
+        "lon": -78.35362,
+        "climbs": 6,
+        "country": "Canada",
+        "distance": 167.66
+    },
+    {
+        "name": "Bancroft Cottage Boulders, ON",
+        "lat": 45.0464,
+        "lon": -77.8463,
+        "climbs": 21,
+        "country": "Canada",
+        "distance": 244.08
+    },
+    {
+        "name": "Bancroft Eagle's Nest, ON",
+        "lat": 45.07061,
+        "lon": -77.8611,
+        "climbs": 11,
+        "country": "Canada",
+        "distance": 243.9
+    },
+    {
+        "name": "Berlin Wall, ON",
+        "lat": 44.44661,
+        "lon": -80.30801,
+        "climbs": 16,
+        "country": "Canada",
+        "distance": 171.19
+    },
+    {
+        "name": "Bleasdell Boulder, ON",
+        "lat": 44.13008,
+        "lon": -77.60173,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 167.19
+    },
+    {
+        "name": "Bon Echo, ON",
+        "lat": 44.8972,
+        "lon": -77.2095,
+        "climbs": 36,
+        "country": "Canada",
+        "distance": 273.16
+    },
+    {
+        "name": "Cape Croker, ON",
+        "lat": 44.90277,
+        "lon": -81.10286,
+        "climbs": 14,
+        "country": "Canada",
+        "distance": 247.17
+    },
+    {
+        "name": "The Crag Next Door, ON",
+        "lat": 43.33804,
+        "lon": -79.86583,
+        "climbs": 57,
+        "country": "Canada",
+        "distance": 60.76
+    },
+    {
+        "name": "Devil's Glen, ON",
+        "lat": 44.34794,
+        "lon": -80.22968,
+        "climbs": 165,
+        "country": "Canada",
+        "distance": 136.7
+    },
+    {
+        "name": "Metcalfe Rock, ON",
+        "lat": 44.41833,
+        "lon": -80.44133,
+        "climbs": 140,
+        "country": "Canada",
+        "distance": 161.95
+    },
+    {
+        "name": "Old Baldy, ON",
+        "lat": 44.39284,
+        "lon": -80.52167,
+        "climbs": 69,
+        "country": "Canada",
+        "distance": 159.39
+    },
+    {
+        "name": "Robertson Ridge, ON",
+        "lat": 46.7694,
+        "lon": -84.3144,
+        "climbs": 6,
+        "country": "Canada",
+        "distance": 729.57
+    },
+    {
+        "name": "Sunnyside Boulders, ON",
+        "lat": 45.35197,
+        "lon": -77.57433,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 299.78
+    },
+    {
+        "name": "TV Tower, ON",
+        "lat": 44.94773,
+        "lon": -81.12048,
+        "climbs": 25,
+        "country": "Canada",
+        "distance": 252.36
+    },
+    {
+        "name": "White Bluff, ON",
+        "lat": 45.02773,
+        "lon": -81.27034,
+        "climbs": 27,
+        "country": "Canada",
+        "distance": 262.42
+    }
+]

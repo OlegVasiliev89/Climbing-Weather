@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Grand Ledge (aka Oak Park), US",
+        "lat": 42.75784,
+        "lon": -84.75339,
+        "climbs": 180,
+        "country": "USA",
+        "distance": 1034.83
+    },
+    {
+        "name": "Petoskey Park, US",
+        "lat": 45.3791,
+        "lon": -84.95247,
+        "climbs": 1,
+        "country": "USA",
+        "distance": 1258.41
+    },
+    {
+        "name": "Split Rock, US",
+        "lat": 44.00456,
+        "lon": -83.11243,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 996.64
+    },
+    {
+        "name": "Copper Country, US",
+        "lat": 47.09352,
+        "lon": -88.59029,
+        "climbs": 106,
+        "country": "USA",
+        "distance": 1415.46
+    },
+    {
+        "name": "Horse Race Rapids, US",
+        "lat": 45.99069,
+        "lon": -88.27071,
+        "climbs": 20,
+        "country": "USA",
+        "distance": 1403.83
+    },
+    {
+        "name": "Iron Mountain, US",
+        "lat": 45.87027,
+        "lon": -87.96613,
+        "climbs": 132,
+        "country": "USA",
+        "distance": 1362.4
+    },
+    {
+        "name": "Laughing Whitefish Falls, US",
+        "lat": 46.38488,
+        "lon": -87.07654,
+        "climbs": 1,
+        "country": "USA",
+        "distance": 1234.5
+    },
+    {
+        "name": "Little Huron River Range, US",
+        "lat": 46.8806,
+        "lon": -88.1824,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 1391.97
+    },
+    {
+        "name": "Maple Hill, US",
+        "lat": 46.15945,
+        "lon": -84.78131,
+        "climbs": 21,
+        "country": "USA",
+        "distance": 1055.95
+    },
+    {
+        "name": "Marquette (and Central UP) Roped, US",
+        "lat": 46.50599,
+        "lon": -87.47307,
+        "climbs": 261,
+        "country": "USA",
+        "distance": 1265.3
+    },
+    {
+        "name": "Michigamme, US",
+        "lat": 46.53859,
+        "lon": -88.10943,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 1313.98
+    },
+    {
+        "name": "Montreal River, US",
+        "lat": 46.56437,
+        "lon": -90.41524,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 1515.49
+    },
+    {
+        "name": "Munising, US",
+        "lat": 46.41,
+        "lon": -86.6499,
+        "climbs": 86,
+        "country": "USA",
+        "distance": 1187.41
+    },
+    {
+        "name": "Norwich Cemetery Bluff, US",
+        "lat": 46.66024,
+        "lon": -89.3837,
+        "climbs": 0,
+        "country": "USA",
+        "distance": 1434.07
+    },
+    {
+        "name": "Old 41 boulders, US",
+        "lat": 46.66486,
+        "lon": -88.44574,
+        "climbs": 28,
+        "country": "USA",
+        "distance": 1353.42
+    },
+    {
+        "name": "Silver Mountain, US",
+        "lat": 46.66633,
+        "lon": -88.74033,
+        "climbs": 61,
+        "country": "USA",
+        "distance": 1378.57
+    }
+]

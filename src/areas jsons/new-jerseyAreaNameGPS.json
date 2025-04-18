@@ -1,0 +1,68 @@
+[
+    {
+        "name": "bouldering Northwest NJ, US",
+        "lat": 41.06239,
+        "lon": -74.83459,
+        "climbs": 78
+    },
+    {
+        "name": "Allamuchy State Park, US",
+        "lat": 40.9199,
+        "lon": -74.7493,
+        "climbs": 75
+    },
+    {
+        "name": "Cranberry Hollow, US",
+        "lat": 40.95779,
+        "lon": -74.74678,
+        "climbs": 129
+    },
+    {
+        "name": "Delaware Water Gap NRA, US",
+        "lat": 41.06944,
+        "lon": -74.9704,
+        "climbs": 139
+    },
+    {
+        "name": "High Point State Park, US",
+        "lat": 41.30261,
+        "lon": -74.67366,
+        "climbs": 9
+    },
+    {
+        "name": "bouldering North Central NJ, US",
+        "lat": 40.9861,
+        "lon": -74.49702,
+        "climbs": 116
+    },
+    {
+        "name": "Green Pond Cliffs, US",
+        "lat": 41.04389,
+        "lon": -74.45439,
+        "climbs": 7
+    },
+    {
+        "name": "Pyramid Mountain / Booze Wall, US",
+        "lat": 40.96719,
+        "lon": -74.37167,
+        "climbs": 6
+    },
+    {
+        "name": "bouldering Northeast NJ, US",
+        "lat": 40.85447,
+        "lon": -74.14056,
+        "climbs": 136
+    },
+    {
+        "name": "Watchung Reservation, US",
+        "lat": 40.31299,
+        "lon": -74.55319,
+        "climbs": 19
+    },
+    {
+        "name": "bouldering mid-state NJ, US",
+        "lat": 40.39912,
+        "lon": -74.8093,
+        "climbs": 121
+    }
+]

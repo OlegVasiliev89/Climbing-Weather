@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Bear Rock, US",
+        "lat": 41.47119,
+        "lon": -72.64888,
+        "climbs": 31,
+        "country": "USA",
+        "distance": 167.26
+    },
+    {
+        "name": "Bradley Mountain, US",
+        "lat": 41.6485,
+        "lon": -72.8328,
+        "climbs": 85,
+        "country": "USA",
+        "distance": 180.24
+    },
+    {
+        "name": "Cathole Mountain, US",
+        "lat": 41.55965,
+        "lon": -72.81109,
+        "climbs": 33,
+        "country": "USA",
+        "distance": 174.97
+    },
+    {
+        "name": "Chauncey Peak, US",
+        "lat": 41.55739,
+        "lon": -72.75901,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 160.39
+    },
+    {
+        "name": "Pinnacle Rock, US",
+        "lat": 41.6897,
+        "lon": -72.8328,
+        "climbs": 74,
+        "country": "USA",
+        "distance": 183.64
+    },
+    {
+        "name": "Ragged Mountain, US",
+        "lat": 41.61223,
+        "lon": -72.82816,
+        "climbs": 96,
+        "country": "USA",
+        "distance": 176.58
+    },
+    {
+        "name": "Rattlesnake Mountain, US",
+        "lat": 41.7007,
+        "lon": -72.8321,
+        "climbs": 61,
+        "country": "USA",
+        "distance": 186.36
+    },
+    {
+        "name": "Short Mountain, US",
+        "lat": 41.60385,
+        "lon": -72.82174,
+        "climbs": 20,
+        "country": "USA",
+        "distance": 176.55
+    },
+    {
+        "name": "West Peak, US",
+        "lat": 41.5791,
+        "lon": -72.83609,
+        "climbs": 22,
+        "country": "USA",
+        "distance": 173.82
+    },
+    {
+        "name": "100 Acre Wood, US",
+        "lat": 41.39577,
+        "lon": -72.15919,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 202.51
+    },
+    {
+        "name": "Babcock Preserve, US",
+        "lat": 41.1029,
+        "lon": -73.6324,
+        "climbs": 17,
+        "country": "USA",
+        "distance": 63.65
+    },
+    {
+        "name": "Bald Rock Basin, US",
+        "lat": 41.33936,
+        "lon": -73.4071,
+        "climbs": 215,
+        "country": "USA",
+        "distance": 108.64
+    },
+    {
+        "name": "Burlington Fish Hatchery Boulders, US",
+        "lat": 41.76832,
+        "lon": -72.94217,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 186.18
+    },
+    {
+        "name": "The Burnap Boulder, US",
+        "lat": 41.7477,
+        "lon": -72.39695,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 212.37
+    },
+    {
+        "name": "Burr Pond State Park / Paugnut State Forest, US",
+        "lat": 41.86619,
+        "lon": -73.09793,
+        "climbs": 138,
+        "country": "USA",
+        "distance": 181.26
+    },
+    {
+        "name": "Case Mountain, US",
+        "lat": 41.74136,
+        "lon": -72.50274,
+        "climbs": 51,
+        "country": "USA",
+        "distance": 197.03
+    },
+    {
+        "name": "Coney Rock Preserve, US",
+        "lat": 41.79538,
+        "lon": -72.20213,
+        "climbs": 17,
+        "country": "USA",
+        "distance": 236.69
+    },
+    {
+        "name": "Deep River/Essex/Chester, US",
+        "lat": 41.3641,
+        "lon": -72.5639,
+        "climbs": 19,
+        "country": "USA",
+        "distance": 170.84
+    },
+    {
+        "name": "Diamond Ledge Bouldering, US",
+        "lat": 41.95112,
+        "lon": -72.84605,
+        "climbs": 24,
+        "country": "USA",
+        "distance": 210.77
+    },
+    {
+        "name": "Firetown Road, US",
+        "lat": 41.93251,
+        "lon": -72.84834,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 214.25
+    },
+    {
+        "name": "Foster Pond Area, US",
+        "lat": 41.3597,
+        "lon": -72.5869,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 168.79
+    },
+    {
+        "name": "Glastonbury, US",
+        "lat": 41.68283,
+        "lon": -72.54192,
+        "climbs": 19,
+        "country": "USA",
+        "distance": 191.8
+    },
+    {
+        "name": "Hurd Park, US",
+        "lat": 41.51958,
+        "lon": -72.54168,
+        "climbs": 62,
+        "country": "USA",
+        "distance": 185.46
+    },
+    {
+        "name": "Kettletown State Park, US",
+        "lat": 41.4184,
+        "lon": -73.2019,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 138.34
+    },
+    {
+        "name": "Killingworth, US",
+        "lat": 41.359,
+        "lon": -72.5868,
+        "climbs": 85,
+        "country": "USA",
+        "distance": 168.79
+    },
+    {
+        "name": "Lemon Boulder, US",
+        "lat": 41.3641,
+        "lon": -72.5639,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 170.84
+    },
+    {
+        "name": "Lost Acres Bouldering, US",
+        "lat": 42.01154,
+        "lon": -72.87267,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 213.98
+    },
+    {
+        "name": "Mansfield Grove Boulder, US",
+        "lat": 41.25488,
+        "lon": -72.86433,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 141.39
+    },
+    {
+        "name": "Mashamoquet Brook State Park, US",
+        "lat": 41.8462,
+        "lon": -71.98622,
+        "climbs": 57,
+        "country": "USA",
+        "distance": 251.4
+    },
+    {
+        "name": "Mianus Park, US",
+        "lat": 41.0814,
+        "lon": -73.5949,
+        "climbs": 56,
+        "country": "USA",
+        "distance": 63.45
+    },
+    {
+        "name": "Mystic Areas, US",
+        "lat": 41.36622,
+        "lon": -72.01403,
+        "climbs": 134,
+        "country": "USA",
+        "distance": 220.61
+    },
+    {
+        "name": "Naugatuck State Forest, US",
+        "lat": 41.4527,
+        "lon": -73.067,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 136.07
+    },
+    {
+        "name": "Nehantic State Forest, US",
+        "lat": 41.3874,
+        "lon": -72.30937,
+        "climbs": 47,
+        "country": "USA",
+        "distance": 193.84
+    },
+    {
+        "name": "Nells Rock Walking Trails, US",
+        "lat": 41.30267,
+        "lon": -73.11816,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 118.01
+    },
+    {
+        "name": "Oswegatchie Hills, US",
+        "lat": 41.33923,
+        "lon": -72.19692,
+        "climbs": 12,
+        "country": "USA",
+        "distance": 199.7
+    },
+    {
+        "name": "Paugussett State Forests, US",
+        "lat": 41.43075,
+        "lon": -73.25524,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 129.9
+    },
+    {
+        "name": "Pequonnock River Valley Greenway, US",
+        "lat": 41.25454,
+        "lon": -73.203,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 106.42
+    },
+    {
+        "name": "Pleasant Valley, US",
+        "lat": 41.9381,
+        "lon": -73.00446,
+        "climbs": 27,
+        "country": "USA",
+        "distance": 195.84
+    },
+    {
+        "name": "Rocky Neck, US",
+        "lat": 41.29763,
+        "lon": -72.24637,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 195.84
+    },
+    {
+        "name": "Samp Mortar / Mt. Laurel, US",
+        "lat": 41.1871,
+        "lon": -73.2634,
+        "climbs": 36,
+        "country": "USA",
+        "distance": 100.47
+    },
+    {
+        "name": "Seven Falls Bouldering, US",
+        "lat": 41.50708,
+        "lon": -72.58089,
+        "climbs": 35,
+        "country": "USA",
+        "distance": 178.29
+    },
+    {
+        "name": "Sleeping Giant, US",
+        "lat": 41.4236,
+        "lon": -72.9027,
+        "climbs": 73,
+        "country": "USA",
+        "distance": 142.31
+    },
+    {
+        "name": "Tree Tops, Bethel CT, US",
+        "lat": 41.3853,
+        "lon": -73.4087,
+        "climbs": 18,
+        "country": "USA",
+        "distance": 115.87
+    },
+    {
+        "name": "Waterfall Basin Boulders, US",
+        "lat": 41.96105,
+        "lon": -73.37282,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 181.96
+    },
+    {
+        "name": "West Rock State Park, US",
+        "lat": 41.33245,
+        "lon": -72.96121,
+        "climbs": 131,
+        "country": "USA",
+        "distance": 130.27
+    },
+    {
+        "name": "Westwoods (Cockaponset State Forest), US",
+        "lat": 41.27605,
+        "lon": -72.70947,
+        "climbs": 97,
+        "country": "USA",
+        "distance": 157.53
+    },
+    {
+        "name": "Will Warren's Den, US",
+        "lat": 41.69892,
+        "lon": -72.83248,
+        "climbs": 29,
+        "country": "USA",
+        "distance": 186.4
+    },
+    {
+        "name": "Woodbridge Land Trust, Park Lane, US",
+        "lat": 41.3369,
+        "lon": -72.9861,
+        "climbs": 35,
+        "country": "USA",
+        "distance": 130.43
+    },
+    {
+        "name": "Peoples State Forest Ice Climbing, US",
+        "lat": 41.9387,
+        "lon": -73.0028,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 195.81
+    },
+    {
+        "name": "Chatfield Hollow Main Wall, US",
+        "lat": 41.36478,
+        "lon": -72.59364,
+        "climbs": 49,
+        "country": "USA",
+        "distance": 167.24
+    },
+    {
+        "name": "Lantern Hill, US",
+        "lat": 41.45862,
+        "lon": -71.94485,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 233.24
+    },
+    {
+        "name": "50 Footer, US",
+        "lat": 41.79062,
+        "lon": -72.21342,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 234.44
+    },
+    {
+        "name": "Ross Rocks, US",
+        "lat": 41.77851,
+        "lon": -71.86603,
+        "climbs": 38,
+        "country": "USA",
+        "distance": 259.36
+    },
+    {
+        "name": "Wolf Rock, US",
+        "lat": 41.75925,
+        "lon": -72.21256,
+        "climbs": 31,
+        "country": "USA",
+        "distance": 233.03
+    },
+    {
+        "name": "Bald Rock Basin, US",
+        "lat": 41.34042,
+        "lon": -73.40724,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 108.64
+    },
+    {
+        "name": "Great Ledge, US",
+        "lat": 41.26951,
+        "lon": -73.38402,
+        "climbs": 17,
+        "country": "USA",
+        "distance": 101.31
+    },
+    {
+        "name": "Laddin's Rock, US",
+        "lat": 41.0436,
+        "lon": -73.565,
+        "climbs": 31,
+        "country": "USA",
+        "distance": 59.88
+    },
+    {
+        "name": "Quarry Head SP, US",
+        "lat": 41.22545,
+        "lon": -73.47416,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 91.31
+    },
+    {
+        "name": "Shippan Boulders, US",
+        "lat": 41.02615,
+        "lon": -73.5196,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 66.55
+    },
+    {
+        "name": "Twin Brooks Park, US",
+        "lat": 41.24568,
+        "lon": -73.18734,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 107.92
+    },
+    {
+        "name": "Webb Mountain Park, US",
+        "lat": 41.37654,
+        "lon": -73.16707,
+        "climbs": 12,
+        "country": "USA",
+        "distance": 120.98
+    },
+    {
+        "name": "West Rock State Park, US",
+        "lat": 41.332,
+        "lon": -72.9599,
+        "climbs": 52,
+        "country": "USA",
+        "distance": 131.1
+    },
+    {
+        "name": "Diamond Ledge, US",
+        "lat": 41.9511,
+        "lon": -72.846,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 210.77
+    },
+    {
+        "name": "Mattatuck State Forest, US",
+        "lat": 41.62129,
+        "lon": -73.05927,
+        "climbs": 12,
+        "country": "USA",
+        "distance": 160.13
+    },
+    {
+        "name": "Nepaug State Forest, US",
+        "lat": 41.84579,
+        "lon": -72.95939,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 194.35
+    },
+    {
+        "name": "St. John's Ledges, US",
+        "lat": 41.75754,
+        "lon": -73.45069,
+        "climbs": 38,
+        "country": "USA",
+        "distance": 144.23
+    },
+    {
+        "name": "Whitestone Cliffs, US",
+        "lat": 41.62105,
+        "lon": -73.05439,
+        "climbs": 76,
+        "country": "USA",
+        "distance": 160.04
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Algoma Riverside Cliffs, ON",
+        "lat": 46.46054,
+        "lon": -83.24397,
+        "climbs": 26
+    },
+    {
+        "name": "Arktos, ON",
+        "lat": 46.71137,
+        "lon": -79.29893,
+        "climbs": 6
+    },
+    {
+        "name": "Echo Crag, ON",
+        "lat": 46.42787,
+        "lon": -81.19151,
+        "climbs": 19
+    },
+    {
+        "name": "Kenora, ON",
+        "lat": 49.767,
+        "lon": -94.4894,
+        "climbs": 31
+    },
+    {
+        "name": "Lac Des Mille Lacs, ON",
+        "lat": 48.83827,
+        "lon": -90.52194,
+        "climbs": 7
+    },
+    {
+        "name": "The Nooks Boulders, ON",
+        "lat": 46.61064,
+        "lon": -82.89799,
+        "climbs": 136
+    },
+    {
+        "name": "Sudbury Area, ON",
+        "lat": 46.49338,
+        "lon": -80.99048,
+        "climbs": 66
+    },
+    {
+        "name": "Thunder Bay Region Rock, ON",
+        "lat": 48.411,
+        "lon": -89.2529,
+        "climbs": 368
+    },
+    {
+        "name": "Adam and Eve Rocks, ON",
+        "lat": 44.55305,
+        "lon": -78.35362,
+        "climbs": 6
+    },
+    {
+        "name": "Bancroft Cottage Boulders, ON",
+        "lat": 45.0464,
+        "lon": -77.8463,
+        "climbs": 21
+    },
+    {
+        "name": "Bancroft Eagle's Nest, ON",
+        "lat": 45.07061,
+        "lon": -77.8611,
+        "climbs": 11
+    },
+    {
+        "name": "Berlin Wall, ON",
+        "lat": 44.44661,
+        "lon": -80.30801,
+        "climbs": 16
+    },
+    {
+        "name": "Bleasdell Boulder, ON",
+        "lat": 44.13008,
+        "lon": -77.60173,
+        "climbs": 7
+    },
+    {
+        "name": "Bon Echo, ON",
+        "lat": 44.8972,
+        "lon": -77.2095,
+        "climbs": 36
+    },
+    {
+        "name": "Calabogie, ON",
+        "lat": 45.26716,
+        "lon": -76.80046,
+        "climbs": 123
+    },
+    {
+        "name": "Cape Croker, ON",
+        "lat": 44.90277,
+        "lon": -81.10286,
+        "climbs": 14
+    },
+    {
+        "name": "The Crag Next Door, ON",
+        "lat": 43.33804,
+        "lon": -79.86583,
+        "climbs": 57
+    },
+    {
+        "name": "Crests of Kennisis, ON",
+        "lat": 45.21886,
+        "lon": -78.87466,
+        "climbs": 8
+    },
+    {
+        "name": "Devil's Glen, ON",
+        "lat": 44.34794,
+        "lon": -80.22968,
+        "climbs": 165
+    },
+    {
+        "name": "Golden Horseshoe, ON",
+        "lat": 43.26221,
+        "lon": -79.63271,
+        "climbs": 707
+    },
+    {
+        "name": "Halfway Log Dump (Bruce Peninsula National Park), ON",
+        "lat": 45.23257,
+        "lon": -81.4768,
+        "climbs": 22
+    },
+    {
+        "name": "Lion's Head, ON",
+        "lat": 44.99971,
+        "lon": -81.23381,
+        "climbs": 223
+    },
+    {
+        "name": "McCrae Lake, ON",
+        "lat": 44.91758,
+        "lon": -79.79352,
+        "climbs": 16
+    },
+    {
+        "name": "Metcalfe Rock, ON",
+        "lat": 44.41833,
+        "lon": -80.44133,
+        "climbs": 140
+    },
+    {
+        "name": "Old Baldy, ON",
+        "lat": 44.39284,
+        "lon": -80.52167,
+        "climbs": 69
+    },
+    {
+        "name": "Pine Rock, ON",
+        "lat": 44.41319,
+        "lon": -80.43069,
+        "climbs": 14
+    },
+    {
+        "name": "Robertson Ridge, ON",
+        "lat": 46.7694,
+        "lon": -84.3144,
+        "climbs": 6
+    },
+    {
+        "name": "Sunnyside Boulders, ON",
+        "lat": 45.35197,
+        "lon": -77.57433,
+        "climbs": 7
+    },
+    {
+        "name": "The Swamp, ON",
+        "lat": 44.41896,
+        "lon": -80.42445,
+        "climbs": 138
+    },
+    {
+        "name": "TV Tower, ON",
+        "lat": 44.94773,
+        "lon": -81.12048,
+        "climbs": 25
+    },
+    {
+        "name": "White Bluff, ON",
+        "lat": 45.02773,
+        "lon": -81.27034,
+        "climbs": 27
+    }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Auburn Ice Canyon, US",
+        "lat": 42.213,
+        "lon": -71.81358,
+        "climbs": 5,
+        "country": "USA",
+        "distance": 659.42
+    },
+    {
+        "name": "Crow Hill and Leominster Area, US",
+        "lat": 42.52459,
+        "lon": -71.76006,
+        "climbs": 74,
+        "country": "USA",
+        "distance": 652.83
+    },
+    {
+        "name": "God’s Acre, Worcester, US",
+        "lat": 42.25634,
+        "lon": -71.86174,
+        "climbs": 18,
+        "country": "USA",
+        "distance": 662.93
+    },
+    {
+        "name": "Rock House Reservation, US",
+        "lat": 42.26929,
+        "lon": -72.19753,
+        "climbs": 47,
+        "country": "USA",
+        "distance": 627.43
+    },
+    {
+        "name": "Rocky Pond, US",
+        "lat": 42.35809,
+        "lon": -71.68317,
+        "climbs": 86,
+        "country": "USA",
+        "distance": 704.63
+    },
+    {
+        "name": "Sampson's Pebble, US",
+        "lat": 42.31903,
+        "lon": -72.00729,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 646.46
+    },
+    {
+        "name": "Tatnuck Boulder, US",
+        "lat": 42.28686,
+        "lon": -71.86406,
+        "climbs": 22,
+        "country": "USA",
+        "distance": 667.36
+    },
+    {
+        "name": "Tivnan Park Boulders, US",
+        "lat": 42.25612,
+        "lon": -71.75341,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 668.69
+    },
+    {
+        "name": "Wachusett Mountain Area, US",
+        "lat": 42.49229,
+        "lon": -71.88035,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 644.22
+    },
+    {
+        "name": "Area 69, Beford, MA, US",
+        "lat": 42.47001,
+        "lon": -71.30431,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 676.86
+    },
+    {
+        "name": "The Assonet Ledge, US",
+        "lat": 41.76349,
+        "lon": -71.08893,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 755.83
+    },
+    {
+        "name": "Ayer Boulders, US",
+        "lat": 42.5698,
+        "lon": -71.5685,
+        "climbs": 59,
+        "country": "USA",
+        "distance": 658.48
+    },
+    {
+        "name": "Berlin/Bolton/Lancaster, US",
+        "lat": 42.34909,
+        "lon": -71.69365,
+        "climbs": 94,
+        "country": "USA",
+        "distance": 709.86
+    },
+    {
+        "name": "Borderland State Park Easton, US",
+        "lat": 42.0607,
+        "lon": -71.1664,
+        "climbs": 56,
+        "country": "USA",
+        "distance": 725.29
+    },
+    {
+        "name": "Boulder Brook Reservation, US",
+        "lat": 42.31679,
+        "lon": -71.30789,
+        "climbs": 22,
+        "country": "USA",
+        "distance": 696.08
+    },
+    {
+        "name": "Burlington Landlocked Forest, US",
+        "lat": 42.47819,
+        "lon": -71.22402,
+        "climbs": 18,
+        "country": "USA",
+        "distance": 672.91
+    },
+    {
+        "name": "Cavern Rock Park, US",
+        "lat": 42.2037,
+        "lon": -70.93269,
+        "climbs": 19,
+        "country": "USA",
+        "distance": 712.17
+    },
+    {
+        "name": "Chelmsford Lime Quarry, US",
+        "lat": 42.5921,
+        "lon": -71.369,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 665.03
+    },
+    {
+        "name": "College Rock, US",
+        "lat": 42.1945,
+        "lon": -71.4998,
+        "climbs": 49,
+        "country": "USA",
+        "distance": 692.18
+    },
+    {
+        "name": "Den Rock Park, US",
+        "lat": 42.68,
+        "lon": -71.13658,
+        "climbs": 32,
+        "country": "USA",
+        "distance": 654.19
+    },
+    {
+        "name": "Devil's Rock, US",
+        "lat": 42.12596,
+        "lon": -71.16296,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 719.53
+    },
+    {
+        "name": "Gilbert Hills State Park, US",
+        "lat": 42.0595,
+        "lon": -71.27589,
+        "climbs": 145,
+        "country": "USA",
+        "distance": 722.33
+    },
+    {
+        "name": "Hammond Pond, US",
+        "lat": 42.3228,
+        "lon": -71.1726,
+        "climbs": 220,
+        "country": "USA",
+        "distance": 694.17
+    },
+    {
+        "name": "Harvard Yard, US",
+        "lat": 42.50996,
+        "lon": -71.58682,
+        "climbs": 19,
+        "country": "USA",
+        "distance": 689.13
+    },
+    {
+        "name": "High Street bouldering, US",
+        "lat": 41.78897,
+        "lon": -71.06812,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 752.6
+    },
+    {
+        "name": "Holbrook Town Forest, US",
+        "lat": 42.16531,
+        "lon": -70.98127,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 711.92
+    },
+    {
+        "name": "holding area, US",
+        "lat": 42.36182,
+        "lon": -71.46288,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 701.75
+    },
+    {
+        "name": "House Rock, US",
+        "lat": 42.2144,
+        "lon": -70.9456,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 708.37
+    },
+    {
+        "name": "Joe's Rock, US",
+        "lat": 42.0268,
+        "lon": -71.4053,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 714.4
+    },
+    {
+        "name": "Middlesex Fells, US",
+        "lat": 42.44642,
+        "lon": -71.10518,
+        "climbs": 270,
+        "country": "USA",
+        "distance": 673.57
+    },
+    {
+        "name": "Milford Bouldering, US",
+        "lat": 42.1622,
+        "lon": -71.5095,
+        "climbs": 125,
+        "country": "USA",
+        "distance": 691.56
+    },
+    {
+        "name": "Needham Town Forest, US",
+        "lat": 42.27145,
+        "lon": -71.2529,
+        "climbs": 32,
+        "country": "USA",
+        "distance": 700.51
+    },
+    {
+        "name": "Peter's Hill, US",
+        "lat": 42.2599,
+        "lon": -71.37461,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 698.79
+    },
+    {
+        "name": "Pine Banks Park, US",
+        "lat": 42.44109,
+        "lon": -71.06522,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 676.61
+    },
+    {
+        "name": "Pond Meadow Park, US",
+        "lat": 42.20445,
+        "lon": -70.97975,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 707.25
+    },
+    {
+        "name": "Quincy Quarries, US",
+        "lat": 42.2433,
+        "lon": -71.0341,
+        "climbs": 152,
+        "country": "USA",
+        "distance": 699.82
+    },
+    {
+        "name": "Rattlesnake Rocks, US",
+        "lat": 42.23166,
+        "lon": -71.0389,
+        "climbs": 73,
+        "country": "USA",
+        "distance": 704.53
+    },
+    {
+        "name": "Rocky Woods, US",
+        "lat": 42.20582,
+        "lon": -71.27657,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 711.36
+    },
+    {
+        "name": "Smoke House Boulder, US",
+        "lat": 42.15733,
+        "lon": -71.06579,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 718.35
+    },
+    {
+        "name": "Standing Rock, Harvard, US",
+        "lat": 42.48538,
+        "lon": -71.56069,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 688.61
+    },
+    {
+        "name": "Stickney's Boulder, US",
+        "lat": 42.7557,
+        "lon": -71.0107,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 661.17
+    },
+    {
+        "name": "Stony Brook Reservation, US",
+        "lat": 42.25098,
+        "lon": -71.1374,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 701.19
+    },
+    {
+        "name": "Temp Area 2, US",
+        "lat": 41.38698,
+        "lon": -70.6373,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 835.19
+    },
+    {
+        "name": "Tippling Rock, US",
+        "lat": 42.35562,
+        "lon": -71.44265,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 703.08
+    },
+    {
+        "name": "Townsend, MA Bouldering, US",
+        "lat": 42.66613,
+        "lon": -71.70488,
+        "climbs": 150,
+        "country": "USA",
+        "distance": 641.56
+    },
+    {
+        "name": "Upton Bouldering, US",
+        "lat": 42.17431,
+        "lon": -71.60203,
+        "climbs": 60,
+        "country": "USA",
+        "distance": 678.35
+    },
+    {
+        "name": "Westport River, US",
+        "lat": 41.5162,
+        "lon": -71.0731,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 767.39
+    },
+    {
+        "name": "Whipple Hill Conservation Area, US",
+        "lat": 42.44092,
+        "lon": -71.18138,
+        "climbs": 15,
+        "country": "USA",
+        "distance": 679.22
+    },
+    {
+        "name": "Willard's Woods, US",
+        "lat": 42.4672,
+        "lon": -71.22192,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 677.68
+    },
+    {
+        "name": "Wilmington Boulders, US",
+        "lat": 42.61099,
+        "lon": -71.15181,
+        "climbs": 5,
+        "country": "USA",
+        "distance": 657.25
+    },
+    {
+        "name": "Wilson Mountain Reservation, US",
+        "lat": 42.2578,
+        "lon": -71.19911,
+        "climbs": 44,
+        "country": "USA",
+        "distance": 702.89
+    },
+    {
+        "name": "Wrentham State Forest, US",
+        "lat": 42.03913,
+        "lon": -71.32195,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 716.58
+    },
+    {
+        "name": "Zink-Northwoods in Bolton, US",
+        "lat": 42.45283,
+        "lon": -71.58036,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 694.35
+    }
+]

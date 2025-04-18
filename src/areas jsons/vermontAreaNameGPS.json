@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Bolton Quarry, US",
+        "lat": 44.37469,
+        "lon": -72.86913,
+        "climbs": 11
+    },
+    {
+        "name": "Lake Willoughby, US",
+        "lat": 44.718,
+        "lon": -72.02984,
+        "climbs": 29
+    },
+    {
+        "name": "Smugglers Notch Ice, US",
+        "lat": 44.55499,
+        "lon": -72.79617,
+        "climbs": 67
+    },
+    {
+        "name": "Bald Hill, US",
+        "lat": 44.76212,
+        "lon": -71.9847,
+        "climbs": 7
+    },
+    {
+        "name": "Black Mountain, US",
+        "lat": 44.92166,
+        "lon": -71.74281,
+        "climbs": 72
+    },
+    {
+        "name": "Bolton Area, US",
+        "lat": 44.3779,
+        "lon": -72.88737,
+        "climbs": 635
+    },
+    {
+        "name": "Butchers Crag, US",
+        "lat": 44.64499,
+        "lon": -72.72796,
+        "climbs": 8
+    },
+    {
+        "name": "Butchers Island, US",
+        "lat": 44.64863,
+        "lon": -72.72984,
+        "climbs": 18
+    },
+    {
+        "name": "Ethan Allen Park, US",
+        "lat": 44.50447,
+        "lon": -73.2397,
+        "climbs": 21
+    },
+    {
+        "name": "Groton, US",
+        "lat": 44.30116,
+        "lon": -72.3123,
+        "climbs": 47
+    },
+    {
+        "name": "Lone Rock Point, US",
+        "lat": 44.48811,
+        "lon": -73.24914,
+        "climbs": 33
+    },
+    {
+        "name": "Marshfield Ledge, US",
+        "lat": 44.32764,
+        "lon": -72.31299,
+        "climbs": 42
+    },
+    {
+        "name": "Mount Hor, US",
+        "lat": 44.72253,
+        "lon": -72.04956,
+        "climbs": 25
+    },
+    {
+        "name": "Pisgah South Trail Moraine, US",
+        "lat": 44.71436,
+        "lon": -72.02267,
+        "climbs": 10
+    },
+    {
+        "name": "Prospect Rock, US",
+        "lat": 44.65479,
+        "lon": -72.72317,
+        "climbs": 45
+    },
+    {
+        "name": "Smugglers' Notch, US",
+        "lat": 44.55625,
+        "lon": -72.79424,
+        "climbs": 445
+    },
+    {
+        "name": "Vermont's Lonely Rocks - Northern, US",
+        "lat": 44.46401,
+        "lon": -73.19193,
+        "climbs": 8
+    },
+    {
+        "name": "Wheeler Mountain, US",
+        "lat": 44.73463,
+        "lon": -72.09156,
+        "climbs": 42
+    },
+    {
+        "name": "Winooski Cut/Quarry, US",
+        "lat": 44.49041,
+        "lon": -73.1628,
+        "climbs": 7
+    },
+    {
+        "name": "Wounded Grouse Ledge, US",
+        "lat": 44.76515,
+        "lon": -72.02023,
+        "climbs": 6
+    },
+    {
+        "name": "Abbey Pond Bouldering, US",
+        "lat": 44.03207,
+        "lon": -73.08538,
+        "climbs": 40
+    },
+    {
+        "name": "Chaffee Falls, US",
+        "lat": 43.73022,
+        "lon": -72.99564,
+        "climbs": 77
+    },
+    {
+        "name": "Chittenden Bouldering, US",
+        "lat": 43.73103,
+        "lon": -72.91328,
+        "climbs": 22
+    },
+    {
+        "name": "Deer Leap, US",
+        "lat": 43.66478,
+        "lon": -72.83276,
+        "climbs": 15
+    },
+    {
+        "name": "DEKD Killington, US",
+        "lat": 43.6737,
+        "lon": -72.797,
+        "climbs": 112
+    },
+    {
+        "name": "Eagle Hollow, US",
+        "lat": 43.97747,
+        "lon": -72.29423,
+        "climbs": 41
+    },
+    {
+        "name": "Lake Dunmore/Falls of Lana, US",
+        "lat": 43.9056,
+        "lon": -73.0634,
+        "climbs": 34
+    },
+    {
+        "name": "Lincoln Gap Boulders, US",
+        "lat": 44.09481,
+        "lon": -72.9282,
+        "climbs": 9
+    },
+    {
+        "name": "Riverside Walls, US",
+        "lat": 43.8271,
+        "lon": -72.5381,
+        "climbs": 16
+    },
+    {
+        "name": "Sunny Valley, US",
+        "lat": 43.6817,
+        "lon": -72.81289,
+        "climbs": 22
+    },
+    {
+        "name": "Vermont's Lonely Rocks - Central, US",
+        "lat": 44.24761,
+        "lon": -72.57899,
+        "climbs": 37
+    },
+    {
+        "name": "Bromley Forest, US",
+        "lat": 43.2071,
+        "lon": -72.97028,
+        "climbs": 224
+    },
+    {
+        "name": "Creature Rock Boulders, US",
+        "lat": 43.15107,
+        "lon": -72.57533,
+        "climbs": 7
+    },
+    {
+        "name": "Jamaica, US",
+        "lat": 43.07626,
+        "lon": -72.73175,
+        "climbs": 22
+    },
+    {
+        "name": "Rooftopia, US",
+        "lat": 42.92245,
+        "lon": -73.00686,
+        "climbs": 24
+    }
+]

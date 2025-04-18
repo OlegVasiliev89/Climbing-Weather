@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Fownes Head East Ice, New Brunswick",
+        "lat": 45.39298,
+        "lon": -65.45264,
+        "climbs": 10,
+        "country": "Canada",
+        "distance": 978.55
+    },
+    {
+        "name": "Fownes Head West Ice, New Brunswick",
+        "lat": 45.38698,
+        "lon": -65.45479,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 977.85
+    },
+    {
+        "name": "Monster Wall & Main Wall, New Brunswick",
+        "lat": 45.50271,
+        "lon": -65.91633,
+        "climbs": 16,
+        "country": "Canada",
+        "distance": 924.53
+    },
+    {
+        "name": "Roadside Wall, New Brunswick",
+        "lat": 45.50271,
+        "lon": -65.91633,
+        "climbs": 29,
+        "country": "Canada",
+        "distance": 924.53
+    },
+    {
+        "name": "Jester Wall, New Brunswick",
+        "lat": 45.5035,
+        "lon": -65.9729,
+        "climbs": 11,
+        "country": "Canada",
+        "distance": 922.93
+    },
+    {
+        "name": "Queen Wall, New Brunswick",
+        "lat": 45.5035,
+        "lon": -65.9729,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 922.93
+    },
+    {
+        "name": "Dystopia Wall, New Brunswick",
+        "lat": 45.16738,
+        "lon": -66.85194,
+        "climbs": 10,
+        "country": "Canada",
+        "distance": 690.29
+    },
+    {
+        "name": "Utopia Wall, New Brunswick",
+        "lat": 45.16787,
+        "lon": -66.85251,
+        "climbs": 12,
+        "country": "Canada",
+        "distance": 690.32
+    },
+    {
+        "name": "Geezer Area, New Brunswick",
+        "lat": 45.49424,
+        "lon": -65.29886,
+        "climbs": 9,
+        "country": "Canada",
+        "distance": 969.18
+    },
+    {
+        "name": "Sea Monster Area, New Brunswick",
+        "lat": 45.4917,
+        "lon": -65.29909,
+        "climbs": 11,
+        "country": "Canada",
+        "distance": 969.18
+    },
+    {
+        "name": "Eagle Rock, New Brunswick",
+        "lat": 45.43084,
+        "lon": -66.31572,
+        "climbs": 53,
+        "country": "Canada",
+        "distance": 876.13
+    },
+    {
+        "name": "Sunnyside, New Brunswick",
+        "lat": 45.4936,
+        "lon": -66.3285,
+        "climbs": 49,
+        "country": "Canada",
+        "distance": 867.9
+    }
+]

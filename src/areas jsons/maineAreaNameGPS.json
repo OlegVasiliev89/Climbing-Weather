@@ -1,0 +1,446 @@
+[
+    {
+        "name": "-MDI Bouldering, US",
+        "lat": 44.37259,
+        "lon": -68.27449,
+        "climbs": 93
+    },
+    {
+        "name": "Canada Cliff, US",
+        "lat": 44.31036,
+        "lon": -68.33669,
+        "climbs": 57
+    },
+    {
+        "name": "Eagles Crag, US",
+        "lat": 44.32471,
+        "lon": -68.21778,
+        "climbs": 6
+    },
+    {
+        "name": "Great Head, US",
+        "lat": 44.32731,
+        "lon": -68.17502,
+        "climbs": 32
+    },
+    {
+        "name": "Otter Cliffs, US",
+        "lat": 44.31194,
+        "lon": -68.18919,
+        "climbs": 79
+    },
+    {
+        "name": "Otter Cliffs, South, US",
+        "lat": 44.31074,
+        "lon": -68.18898,
+        "climbs": 12
+    },
+    {
+        "name": "Parking Lot Buttress, US",
+        "lat": 44.29637,
+        "lon": -68.22789,
+        "climbs": 8
+    },
+    {
+        "name": "Pleasure Dome, US",
+        "lat": 44.33562,
+        "lon": -68.26316,
+        "climbs": 7
+    },
+    {
+        "name": "The Precipice aka The South Wall, US",
+        "lat": 44.34691,
+        "lon": -68.19013,
+        "climbs": 89
+    },
+    {
+        "name": "South Bubble, US",
+        "lat": 44.33959,
+        "lon": -68.2581,
+        "climbs": 9
+    },
+    {
+        "name": "Maiden Cliff & Frostbite, Pete's & Blue Vein, US",
+        "lat": 44.256,
+        "lon": -69.09629,
+        "climbs": 10
+    },
+    {
+        "name": "The Verticals, US",
+        "lat": 44.24816,
+        "lon": -69.08634,
+        "climbs": 14
+    },
+    {
+        "name": "Barrett's Cove Cliff, US",
+        "lat": 44.24696,
+        "lon": -69.08472,
+        "climbs": 51
+    },
+    {
+        "name": "Lost Valley aka Out Back, US",
+        "lat": 44.24959,
+        "lon": -69.08219,
+        "climbs": 27
+    },
+    {
+        "name": "Skyline Crag, US",
+        "lat": 44.24667,
+        "lon": -69.08246,
+        "climbs": 13
+    },
+    {
+        "name": "Guide's Wall, US",
+        "lat": 44.23439,
+        "lon": -69.07265,
+        "climbs": 17
+    },
+    {
+        "name": "The Spot, US",
+        "lat": 44.23436,
+        "lon": -69.07243,
+        "climbs": 59
+    },
+    {
+        "name": "Fireman's Ladder (Rampart Area), US",
+        "lat": 44.23387,
+        "lon": -69.07191,
+        "climbs": 7
+    },
+    {
+        "name": "The Rampart, US",
+        "lat": 44.23373,
+        "lon": -69.07153,
+        "climbs": 19
+    },
+    {
+        "name": "Hot Spot , Rock Climbing, US",
+        "lat": 44.23432,
+        "lon": -69.06803,
+        "climbs": 15
+    },
+    {
+        "name": "Ocean Lookout/ Upper Megunticook, US",
+        "lat": 44.23762,
+        "lon": -69.06577,
+        "climbs": 12
+    },
+    {
+        "name": "Big Chick Hill, US",
+        "lat": 44.8285,
+        "lon": -68.46456,
+        "climbs": 42
+    },
+    {
+        "name": "Eagle Bluff, US",
+        "lat": 44.79328,
+        "lon": -68.49641,
+        "climbs": 110
+    },
+    {
+        "name": "Fletcher Bluff, US",
+        "lat": 44.85191,
+        "lon": -68.45149,
+        "climbs": 11
+    },
+    {
+        "name": "Parks Pond Bluff, US",
+        "lat": 44.8174,
+        "lon": -68.49405,
+        "climbs": 83
+    },
+    {
+        "name": "Bald Bluff, US",
+        "lat": 44.33766,
+        "lon": -70.67036,
+        "climbs": 79
+    },
+    {
+        "name": "Bear Mountain Cliff & Boulders, US",
+        "lat": 44.15577,
+        "lon": -70.71136,
+        "climbs": 19
+    },
+    {
+        "name": "Buck's Ledge, US",
+        "lat": 44.40418,
+        "lon": -70.66623,
+        "climbs": 9
+    },
+    {
+        "name": "C Bluff, US",
+        "lat": 44.72191,
+        "lon": -70.86918,
+        "climbs": 6
+    },
+    {
+        "name": "Chain of Ponds, US",
+        "lat": 45.34727,
+        "lon": -70.68184,
+        "climbs": 48
+    },
+    {
+        "name": "The Cirque on Little Bigelow mountain, US",
+        "lat": 45.12836,
+        "lon": -70.19926,
+        "climbs": 8
+    },
+    {
+        "name": "Grafton Notch St. Park - Ice&Rock, US",
+        "lat": 44.58979,
+        "lon": -70.94674,
+        "climbs": 22
+    },
+    {
+        "name": "The Great Ledges, US",
+        "lat": 43.8336,
+        "lon": -70.7784,
+        "climbs": 9
+    },
+    {
+        "name": "Jockey Cap, US",
+        "lat": 44.0217,
+        "lon": -70.9624,
+        "climbs": 42
+    },
+    {
+        "name": "The Land Of Overhangs, US",
+        "lat": 44.1258,
+        "lon": -70.431,
+        "climbs": 9
+    },
+    {
+        "name": "Peru Tumbledown Dick, US",
+        "lat": 44.45825,
+        "lon": -70.44337,
+        "climbs": 9
+    },
+    {
+        "name": "Pismire Bluff, US",
+        "lat": 43.98562,
+        "lon": -70.446,
+        "climbs": 6
+    },
+    {
+        "name": "Shell Pond, US",
+        "lat": 44.24943,
+        "lon": -70.96502,
+        "climbs": 43
+    },
+    {
+        "name": "Square Dock (Squaredock) Mountain, US",
+        "lat": 44.28903,
+        "lon": -70.79201,
+        "climbs": 26
+    },
+    {
+        "name": "Sugarloaf Region Boulders, US",
+        "lat": 45.0631,
+        "lon": -70.3235,
+        "climbs": 6
+    },
+    {
+        "name": "Ten Degree Wall, US",
+        "lat": 44.78894,
+        "lon": -70.69876,
+        "climbs": 45
+    },
+    {
+        "name": "Tumble Down Dick Mt., US",
+        "lat": 44.40502,
+        "lon": -70.9406,
+        "climbs": 39
+    },
+    {
+        "name": "Tumbledown Mtn Rock, US",
+        "lat": 44.73159,
+        "lon": -70.55976,
+        "climbs": 8
+    },
+    {
+        "name": "Twitchell Pond, US",
+        "lat": 44.35647,
+        "lon": -70.67463,
+        "climbs": 16
+    },
+    {
+        "name": "Clifford Park, US",
+        "lat": 43.48757,
+        "lon": -70.44803,
+        "climbs": 39
+    },
+    {
+        "name": "Kenyon Hill Preserve, US",
+        "lat": 43.2608,
+        "lon": -70.6811,
+        "climbs": 43
+    },
+    {
+        "name": "Nubble Lighthouse, US",
+        "lat": 43.1649,
+        "lon": -70.5932,
+        "climbs": 18
+    },
+    {
+        "name": "Orris Falls Bouldering, US",
+        "lat": 43.27097,
+        "lon": -70.7019,
+        "climbs": 18
+    },
+    {
+        "name": "ACDC Boulder, US",
+        "lat": 43.81973,
+        "lon": -70.36405,
+        "climbs": 7
+    },
+    {
+        "name": "Blackstrap Power Line, US",
+        "lat": 43.77693,
+        "lon": -70.32666,
+        "climbs": 10
+    },
+    {
+        "name": "Bradbury Mountain State Park, US",
+        "lat": 43.90018,
+        "lon": -70.17949,
+        "climbs": 12
+    },
+    {
+        "name": "Elmwood Boulders (Currently Closed to Bouldering), US",
+        "lat": 43.90108,
+        "lon": -70.18577,
+        "climbs": 18
+    },
+    {
+        "name": "Fort Williams / Portland Head Light, US",
+        "lat": 43.62239,
+        "lon": -70.2112,
+        "climbs": 6
+    },
+    {
+        "name": "Gold Coast Boulder, US",
+        "lat": 43.82592,
+        "lon": -70.09311,
+        "climbs": 6
+    },
+    {
+        "name": "Highway Boulders & Local Smokies, US",
+        "lat": 43.73636,
+        "lon": -70.22707,
+        "climbs": 9
+    },
+    {
+        "name": "Little Hill Boulders, US",
+        "lat": 43.9759,
+        "lon": -70.3313,
+        "climbs": 18
+    },
+    {
+        "name": "Morgan Meadows, US",
+        "lat": 43.93632,
+        "lon": -70.40392,
+        "climbs": 13
+    },
+    {
+        "name": "Northeastern Cushing / Whitehead pass, US",
+        "lat": 43.64647,
+        "lon": -70.19092,
+        "climbs": 7
+    },
+    {
+        "name": "Sebago Lake (Frye's Leap) DWS, US",
+        "lat": 43.8523,
+        "lon": -70.51911,
+        "climbs": 7
+    },
+    {
+        "name": "South Freeport Boulders, US",
+        "lat": 43.82509,
+        "lon": -70.11299,
+        "climbs": 104
+    },
+    {
+        "name": "Birch Point Boulder, US",
+        "lat": 43.99476,
+        "lon": -69.67938,
+        "climbs": 13
+    },
+    {
+        "name": "Dodge Point, US",
+        "lat": 43.99141,
+        "lon": -69.56011,
+        "climbs": 11
+    },
+    {
+        "name": "Lisbon Falls Area Boulder, US",
+        "lat": 43.99338,
+        "lon": -70.06193,
+        "climbs": 31
+    },
+    {
+        "name": "Tracy Shore Area, US",
+        "lat": 43.87258,
+        "lon": -69.5643,
+        "climbs": 14
+    },
+    {
+        "name": "Whiskeag Crag, US",
+        "lat": 43.93005,
+        "lon": -69.8355,
+        "climbs": 26
+    },
+    {
+        "name": "Castine, US",
+        "lat": 44.3841,
+        "lon": -68.8204,
+        "climbs": 6
+    },
+    {
+        "name": "McClellan Park, US",
+        "lat": 44.48539,
+        "lon": -67.85355,
+        "climbs": 9
+    },
+    {
+        "name": "Belgrade Lakes Bouldering, US",
+        "lat": 44.58689,
+        "lon": -69.88675,
+        "climbs": 39
+    },
+    {
+        "name": "Lewiston-Auburn Buildering, US",
+        "lat": 44.09738,
+        "lon": -70.22321,
+        "climbs": 6
+    },
+    {
+        "name": "Deadham Bouldering, US",
+        "lat": 44.79746,
+        "lon": -68.77402,
+        "climbs": 44
+    },
+    {
+        "name": "Prospect Mountain, US",
+        "lat": 44.57845,
+        "lon": -68.86554,
+        "climbs": 8
+    },
+    {
+        "name": "Mt Kineo, US",
+        "lat": 45.6766,
+        "lon": -69.7383,
+        "climbs": 11
+    },
+    {
+        "name": "Katahdin, US",
+        "lat": 45.9045,
+        "lon": -68.9239,
+        "climbs": 39
+    },
+    {
+        "name": "Eagle bluff routes, US",
+        "lat": 43.58483,
+        "lon": -67.99563,
+        "climbs": 68
+    }
+]

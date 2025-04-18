@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Chapel Pond Pass, US",
+        "lat": 44.14055,
+        "lon": -73.74655,
+        "climbs": 231,
+        "country": "US",
+        "distance": 434.33
+    },
+    {
+        "name": "Keene Region, US",
+        "lat": 44.2563,
+        "lon": -73.79247,
+        "climbs": 87,
+        "country": "US",
+        "distance": 449.16
+    },
+    {
+        "name": "Wilmington Region, US",
+        "lat": 44.38987,
+        "lon": -73.82228,
+        "climbs": 63,
+        "country": "US",
+        "distance": 468.13
+    },
+    {
+        "name": "Lake George Region, US",
+        "lat": 43.68774,
+        "lon": -73.71826,
+        "climbs": 230,
+        "country": "US",
+        "distance": 380.24
+    },
+    {
+        "name": "Indian Lake Region, US",
+        "lat": 43.78244,
+        "lon": -74.26537,
+        "climbs": 449,
+        "country": "US",
+        "distance": 412.71
+    },
+    {
+        "name": "Southern Mountains, US",
+        "lat": 43.24652,
+        "lon": -74.51758,
+        "climbs": 390,
+        "country": "US",
+        "distance": 351.72
+    },
+    {
+        "name": "Old Forge Region, US",
+        "lat": 43.7108,
+        "lon": -74.9743,
+        "climbs": 74,
+        "country": "US",
+        "distance": 472.81
+    },
+    {
+        "name": "Artpark Boulder, US",
+        "lat": 43.15894,
+        "lon": -79.04349,
+        "climbs": 6,
+        "country": "US",
+        "distance": 647.25
+    },
+    {
+        "name": "Admission (of doubt), US",
+        "lat": 42.02136,
+        "lon": -73.91138,
+        "climbs": 6,
+        "country": "US",
+        "distance": 183.18
+    },
+    {
+        "name": "Welcome Boulder, US",
+        "lat": 42.0087,
+        "lon": -78.79443,
+        "climbs": 6,
+        "country": "US",
+        "distance": 577.93
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Breakheart Ledge, US",
+        "lat": 41.60824,
+        "lon": -71.69933,
+        "climbs": 6
+    },
+    {
+        "name": "Escoheag, US",
+        "lat": 41.5848,
+        "lon": -71.7537,
+        "climbs": 20
+    },
+    {
+        "name": "The Found Boulder, US",
+        "lat": 41.58229,
+        "lon": -71.70309,
+        "climbs": 16
+    },
+    {
+        "name": "The Lost Boulder, US",
+        "lat": 41.61719,
+        "lon": -71.7657,
+        "climbs": 12
+    },
+    {
+        "name": "Mt. Tom, US",
+        "lat": 41.56775,
+        "lon": -71.73172,
+        "climbs": 71
+    },
+    {
+        "name": "The Penny Hill Boulders, US",
+        "lat": 41.60182,
+        "lon": -71.73078,
+        "climbs": 5
+    },
+    {
+        "name": "Riverbed Boulder, US",
+        "lat": 41.57664,
+        "lon": -71.71211,
+        "climbs": 8
+    }
+]

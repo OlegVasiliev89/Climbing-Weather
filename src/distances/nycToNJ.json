@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Allamuchy State Park, US",
+        "lat": 40.9199,
+        "lon": -74.7493,
+        "climbs": 75,
+        "country": "USA",
+        "distance": 86.44
+    },
+    {
+        "name": "Delaware Water Gap NRA, US",
+        "lat": 41.06944,
+        "lon": -74.9704,
+        "climbs": 139,
+        "country": "USA",
+        "distance": 119.39
+    },
+    {
+        "name": "High Point State Park, US",
+        "lat": 41.30261,
+        "lon": -74.67366,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 104.4
+    },
+    {
+        "name": "bouldering North Central NJ, US",
+        "lat": 40.9861,
+        "lon": -74.49702,
+        "climbs": 116,
+        "country": "USA",
+        "distance": 70.23
+    },
+    {
+        "name": "Green Pond Cliffs, US",
+        "lat": 41.04389,
+        "lon": -74.45439,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 64.05
+    },
+    {
+        "name": "Pyramid Mountain / Booze Wall, US",
+        "lat": 40.96719,
+        "lon": -74.37167,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 56.64
+    },
+    {
+        "name": "bouldering Northeast NJ, US",
+        "lat": 40.85447,
+        "lon": -74.14056,
+        "climbs": 136,
+        "country": "USA",
+        "distance": 26.32
+    },
+    {
+        "name": "bouldering mid-state NJ, US",
+        "lat": 40.39912,
+        "lon": -74.8093,
+        "climbs": 121,
+        "country": "USA",
+        "distance": 103.88
+    }
+]

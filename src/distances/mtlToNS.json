@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Wave Wall, Nova Scotia",
+        "lat": 46.47219,
+        "lon": -60.88536,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 1453.44
+    },
+    {
+        "name": "Flanking Tower, Nova Scotia",
+        "lat": 44.80631,
+        "lon": -63.16046,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 1231.0
+    },
+    {
+        "name": "Gatehouse, Nova Scotia",
+        "lat": 44.80564,
+        "lon": -63.16051,
+        "climbs": 6,
+        "country": "Canada",
+        "distance": 1230.99
+    },
+    {
+        "name": "The Keep, Nova Scotia",
+        "lat": 44.80577,
+        "lon": -63.16054,
+        "climbs": 7,
+        "country": "Canada",
+        "distance": 1231.0
+    }
+]

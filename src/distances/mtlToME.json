@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Canada Cliff, US",
+        "lat": 44.31036,
+        "lon": -68.33669,
+        "climbs": 57,
+        "country": "USA",
+        "distance": 564.32
+    },
+    {
+        "name": "Otter Cliffs, US",
+        "lat": 44.31194,
+        "lon": -68.18919,
+        "climbs": 79,
+        "country": "USA",
+        "distance": 577.98
+    },
+    {
+        "name": "Otter Cliffs, South, US",
+        "lat": 44.31074,
+        "lon": -68.18898,
+        "climbs": 12,
+        "country": "USA",
+        "distance": 578.13
+    },
+    {
+        "name": "Parking Lot Buttress, US",
+        "lat": 44.29637,
+        "lon": -68.22789,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 573.23
+    },
+    {
+        "name": "The Precipice aka The South Wall, US",
+        "lat": 44.34691,
+        "lon": -68.19013,
+        "climbs": 89,
+        "country": "USA",
+        "distance": 574.94
+    },
+    {
+        "name": "Maiden Cliff & Frostbite, Pete's & Blue Vein, US",
+        "lat": 44.256,
+        "lon": -69.09629,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 480.44
+    },
+    {
+        "name": "The Verticals, US",
+        "lat": 44.24816,
+        "lon": -69.08634,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 490.35
+    },
+    {
+        "name": "Barrett's Cove Cliff, US",
+        "lat": 44.24696,
+        "lon": -69.08472,
+        "climbs": 51,
+        "country": "USA",
+        "distance": 490.18
+    },
+    {
+        "name": "Skyline Crag, US",
+        "lat": 44.24667,
+        "lon": -69.08246,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 490.11
+    },
+    {
+        "name": "Parks Pond Bluff, US",
+        "lat": 44.8174,
+        "lon": -68.49405,
+        "climbs": 83,
+        "country": "USA",
+        "distance": 516.49
+    },
+    {
+        "name": "Bald Bluff, US",
+        "lat": 44.33766,
+        "lon": -70.67036,
+        "climbs": 79,
+        "country": "USA",
+        "distance": 317.64
+    },
+    {
+        "name": "Bear Mountain Cliff & Boulders, US",
+        "lat": 44.15577,
+        "lon": -70.71136,
+        "climbs": 19,
+        "country": "USA",
+        "distance": 334.29
+    },
+    {
+        "name": "C Bluff, US",
+        "lat": 44.72191,
+        "lon": -70.86918,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 351.61
+    },
+    {
+        "name": "Chain of Ponds, US",
+        "lat": 45.34727,
+        "lon": -70.68184,
+        "climbs": 48,
+        "country": "USA",
+        "distance": 373.41
+    },
+    {
+        "name": "Grafton Notch St. Park - Ice&Rock, US",
+        "lat": 44.58979,
+        "lon": -70.94674,
+        "climbs": 22,
+        "country": "USA",
+        "distance": 272.16
+    },
+    {
+        "name": "The Great Ledges, US",
+        "lat": 43.8336,
+        "lon": -70.7784,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 390.29
+    },
+    {
+        "name": "Jockey Cap, US",
+        "lat": 44.0217,
+        "lon": -70.9624,
+        "climbs": 42,
+        "country": "USA",
+        "distance": 364.49
+    },
+    {
+        "name": "The Land Of Overhangs, US",
+        "lat": 44.1258,
+        "lon": -70.431,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 354.21
+    },
+    {
+        "name": "Pismire Bluff, US",
+        "lat": 43.98562,
+        "lon": -70.446,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 370.89
+    },
+    {
+        "name": "Sugarloaf Region Boulders, US",
+        "lat": 45.0631,
+        "lon": -70.3235,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 358.19
+    },
+    {
+        "name": "Ten Degree Wall, US",
+        "lat": 44.78894,
+        "lon": -70.69876,
+        "climbs": 45,
+        "country": "USA",
+        "distance": 335.03
+    },
+    {
+        "name": "Tumble Down Dick Mt., US",
+        "lat": 44.40502,
+        "lon": -70.9406,
+        "climbs": 39,
+        "country": "USA",
+        "distance": 333.03
+    },
+    {
+        "name": "Tumbledown Mtn Rock, US",
+        "lat": 44.73159,
+        "lon": -70.55976,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 343.51
+    },
+    {
+        "name": "Twitchell Pond, US",
+        "lat": 44.35647,
+        "lon": -70.67463,
+        "climbs": 16,
+        "country": "USA",
+        "distance": 315.06
+    },
+    {
+        "name": "Clifford Park, US",
+        "lat": 43.48757,
+        "lon": -70.44803,
+        "climbs": 39,
+        "country": "USA",
+        "distance": 433.11
+    },
+    {
+        "name": "Kenyon Hill Preserve, US",
+        "lat": 43.2608,
+        "lon": -70.6811,
+        "climbs": 43,
+        "country": "USA",
+        "distance": 512.6
+    },
+    {
+        "name": "Nubble Lighthouse, US",
+        "lat": 43.1649,
+        "lon": -70.5932,
+        "climbs": 18,
+        "country": "USA",
+        "distance": 500.92
+    },
+    {
+        "name": "Orris Falls Bouldering, US",
+        "lat": 43.27097,
+        "lon": -70.7019,
+        "climbs": 18,
+        "country": "USA",
+        "distance": 468.41
+    },
+    {
+        "name": "ACDC Boulder, US",
+        "lat": 43.81973,
+        "lon": -70.36405,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 394.6
+    },
+    {
+        "name": "Blackstrap Power Line, US",
+        "lat": 43.77693,
+        "lon": -70.32666,
+        "climbs": 10,
+        "country": "USA",
+        "distance": 396.45
+    },
+    {
+        "name": "Bradbury Mountain State Park, US",
+        "lat": 43.90018,
+        "lon": -70.17949,
+        "climbs": 12,
+        "country": "USA",
+        "distance": 394.67
+    },
+    {
+        "name": "Fort Williams / Portland Head Light, US",
+        "lat": 43.62239,
+        "lon": -70.2112,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 418.47
+    },
+    {
+        "name": "Gold Coast Boulder, US",
+        "lat": 43.82592,
+        "lon": -70.09311,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 411.99
+    },
+    {
+        "name": "Highway Boulders & Local Smokies, US",
+        "lat": 43.73636,
+        "lon": -70.22707,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 409.87
+    },
+    {
+        "name": "Sebago Lake (Frye's Leap) DWS, US",
+        "lat": 43.8523,
+        "lon": -70.51911,
+        "climbs": 7,
+        "country": "USA",
+        "distance": 417.8
+    },
+    {
+        "name": "South Freeport Boulders, US",
+        "lat": 43.82509,
+        "lon": -70.11299,
+        "climbs": 104,
+        "country": "USA",
+        "distance": 407.39
+    },
+    {
+        "name": "Birch Point Boulder, US",
+        "lat": 43.99476,
+        "lon": -69.67938,
+        "climbs": 13,
+        "country": "USA",
+        "distance": 432.92
+    },
+    {
+        "name": "Lisbon Falls Area Boulder, US",
+        "lat": 43.99338,
+        "lon": -70.06193,
+        "climbs": 31,
+        "country": "USA",
+        "distance": 393.28
+    },
+    {
+        "name": "Tracy Shore Area, US",
+        "lat": 43.87258,
+        "lon": -69.5643,
+        "climbs": 14,
+        "country": "USA",
+        "distance": 467.02
+    },
+    {
+        "name": "Castine, US",
+        "lat": 44.3841,
+        "lon": -68.8204,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 530.87
+    },
+    {
+        "name": "McClellan Park, US",
+        "lat": 44.48539,
+        "lon": -67.85355,
+        "climbs": 9,
+        "country": "USA",
+        "distance": 590.07
+    },
+    {
+        "name": "Lewiston-Auburn Buildering, US",
+        "lat": 44.09738,
+        "lon": -70.22321,
+        "climbs": 6,
+        "country": "USA",
+        "distance": 374.39
+    },
+    {
+        "name": "Deadham Bouldering, US",
+        "lat": 44.79746,
+        "lon": -68.77402,
+        "climbs": 44,
+        "country": "USA",
+        "distance": 489.84
+    },
+    {
+        "name": "Prospect Mountain, US",
+        "lat": 44.57845,
+        "lon": -68.86554,
+        "climbs": 8,
+        "country": "USA",
+        "distance": 497.94
+    },
+    {
+        "name": "Mt Kineo, US",
+        "lat": 45.6766,
+        "lon": -69.7383,
+        "climbs": 11,
+        "country": "USA",
+        "distance": 408.28
+    }
+]

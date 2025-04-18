@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Grand Ledge (aka Oak Park), US",
+        "lat": 42.75784,
+        "lon": -84.75339,
+        "climbs": 180
+    },
+    {
+        "name": "Petoskey Park, US",
+        "lat": 45.3791,
+        "lon": -84.95247,
+        "climbs": 1
+    },
+    {
+        "name": "Rockport, US",
+        "lat": 45.19822,
+        "lon": -83.39012,
+        "climbs": 9
+    },
+    {
+        "name": "Split Rock, US",
+        "lat": 44.00456,
+        "lon": -83.11243,
+        "climbs": 6
+    },
+    {
+        "name": "Copper Country, US",
+        "lat": 47.09352,
+        "lon": -88.59029,
+        "climbs": 106
+    },
+    {
+        "name": "Horse Race Rapids, US",
+        "lat": 45.99069,
+        "lon": -88.27071,
+        "climbs": 20
+    },
+    {
+        "name": "Iron Mountain, US",
+        "lat": 45.87027,
+        "lon": -87.96613,
+        "climbs": 132
+    },
+    {
+        "name": "Laughing Whitefish Falls, US",
+        "lat": 46.38488,
+        "lon": -87.07654,
+        "climbs": 1
+    },
+    {
+        "name": "Little Huron River Range, US",
+        "lat": 46.8806,
+        "lon": -88.1824,
+        "climbs": 8
+    },
+    {
+        "name": "Little Norwich, US",
+        "lat": 46.6594,
+        "lon": -89.50326,
+        "climbs": 1
+    },
+    {
+        "name": "Mackinac Island, US",
+        "lat": 45.85789,
+        "lon": -84.60625,
+        "climbs": 3
+    },
+    {
+        "name": "Maple Hill, US",
+        "lat": 46.15945,
+        "lon": -84.78131,
+        "climbs": 21
+    },
+    {
+        "name": "Marquette (and Central UP) Bouldering, US",
+        "lat": 46.5871,
+        "lon": -87.37991,
+        "climbs": 599
+    },
+    {
+        "name": "Marquette (and Central UP) Roped, US",
+        "lat": 46.50599,
+        "lon": -87.47307,
+        "climbs": 261
+    },
+    {
+        "name": "Michigamme, US",
+        "lat": 46.53859,
+        "lon": -88.10943,
+        "climbs": 6
+    },
+    {
+        "name": "Montreal River, US",
+        "lat": 46.56437,
+        "lon": -90.41524,
+        "climbs": 6
+    },
+    {
+        "name": "Munising, US",
+        "lat": 46.41,
+        "lon": -86.6499,
+        "climbs": 86
+    },
+    {
+        "name": "Narnia Trail Boulders, US",
+        "lat": 45.98277,
+        "lon": -84.25498,
+        "climbs": 4
+    },
+    {
+        "name": "Norwich Cemetery Bluff, US",
+        "lat": 46.66024,
+        "lon": -89.3837,
+        "climbs": 0
+    },
+    {
+        "name": "Norwich Ledge, US",
+        "lat": 46.65463,
+        "lon": -89.51436,
+        "climbs": 13
+    },
+    {
+        "name": "Old 41 boulders, US",
+        "lat": 46.66486,
+        "lon": -88.44574,
+        "climbs": 28
+    },
+    {
+        "name": "Rock River Wilderness (Eben Ice Caves), US",
+        "lat": 46.38378,
+        "lon": -86.93965,
+        "climbs": 4
+    },
+    {
+        "name": "Silver Mountain, US",
+        "lat": 46.66633,
+        "lon": -88.74033,
+        "climbs": 61
+    },
+    {
+        "name": "Sturgeon River Gorge (Canyon Falls), US",
+        "lat": 46.62089,
+        "lon": -88.48034,
+        "climbs": 5
+    }
+]

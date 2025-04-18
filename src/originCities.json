@@ -1,0 +1,23 @@
+{
+    "Montreal": [
+      "mtlToCT.json", "mtlToMA.json", "mtlToME.json", "mtlToMI.json", "mtlToNB.json",
+      "mtlToNH.json", "mtlToNJ.json", "mtlToNS.json", "mtlToNY.json", "mtlToOH.json",
+      "mtlToON.json", "mtlToPE.json", "mtlToQC.json", "mtlToRI.json", "mtlToVT.json"
+    ],
+    "Quebec City": [
+      "qcToMA.json", "qcToME.json", "qcToNB.json", "qcToNH.json", "qcToNY.json",
+      "qcToON.json", "qcToQC.json", "qcToVT.json"
+    ],
+    "Ottawa": [
+      "otwToMA.json", "otwToME.json", "otwToNB.json", "otwToNH.json", "otwToNY.json",
+      "otwToON.json", "otwToQC.json", "otwToVT.json"
+    ],
+    "Toronto": [
+      "torToMA.json", "torToNY.json", "torToON.json", "torToPE.json", "torToQC.json", "torToVT.json"
+    ],
+    "New York": [
+      "nycToCT.json", "nycToMA.json", "nycToME.json", "nycToNH.json", "nycToNJ.json",
+      "nycToNY.json", "nycToPE.json", "nycToQC.json", "nycToRI.json", "nycToVT.json"
+    ]
+  }
+  
