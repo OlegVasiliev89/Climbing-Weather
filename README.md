@@ -1,24 +1,28 @@
-# climb
+Weather Climbing App is a web application designed to help climbers quickly find outdoor climbing areas with good weather within a chosen distance from their location. It cross-references climbing crags from TheCrag.com with real-time weather data to ensure your next trip stays dry and enjoyable.
 
-## Project setup
-```
-npm install
-```
+🌦️ Features
+🔍 City-Based Search: Choose a city as your starting point (e.g., Montreal, Toronto, New York).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+📍 Nearby Crags: Displays outdoor climbing crags within your selected radius.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+☀️ Weather Forecast: Shows weather predictions for each crag using trusted weather APIs.
 
-### Lints and fixes files
-```
-npm run lint
-```
+✅ Climb-Ready Filter: Automatically highlights areas with good climbing conditions.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+✉️ Email Notifications: Subscribe to receive daily or weekly emails showing the best climbing conditions near you.
+
+🛠️ Tech Stack
+Frontend: Vue.js
+
+Backend: Python (Flask)
+
+APIs:
+
+OpenWeatherMap for weather data
+
+OpenCage for geolocation
+
+TheCrag for climbing area data
+
+Database: Supabase (PostgreSQL)
+
